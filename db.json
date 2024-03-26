@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "react işlenilecek",
+      "date": "26 mart 2024",
+      "isDone": true
+    },
+    {
+      "id": "a17d"
+    },
+    {
+      "id": "b561"
+    },
+    {
+      "id": "1",
+      "title": "react işlenilecek",
+      "date": "26 mart 2024",
+      "isDone": true
+    }
+  ]
+}
